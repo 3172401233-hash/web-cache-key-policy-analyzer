@@ -1,0 +1,11 @@
+{
+  "name": "cache-isolation-audit",
+  "version": "1.0.0",
+  "description": "Audit CDN cache-key policies for cross-user cache isolation failures",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
